@@ -1,5 +1,6 @@
 ### Hi there 👋, I'm Eli
-I'm a student at Dobyns Bennet Highschool and Northeast State Community College. I work mainly in Javascript, Python, and C#.
+I'm a student at Dobyns Bennet Highschool and Northeast State Community College. 
+I work mainly in Javascript, Python, and C#.
 
 
 <!--
